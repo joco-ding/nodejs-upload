@@ -1,20 +1,22 @@
-# Node JS Menggunakan File .env
+# Node JS Upload Gambar
 
-Menggunakan File .env Sebagai Data Konfigurasi
+Mengupload gambar dengan express-fileupload
 
 ## Cara Install
 
-git clone https://github.com/joco-ding/nodejs-dotenv
+git clone https://github.com/joco-ding/nodejs-upload
 
-cd nodejs-dotenv
+cd nodejs-upload
 
 npm install
+
+## URL Demo
+
+https://demo-app-1.jocodev.id/
 
 ## Video Tutorial
 
 Video tutorial-nya bisa dilihat di 
-[youtube](https://youtu.be/emE7sKCUgu4). 
+[youtube](https://youtu.be/Mw-5rEasZqs). 
 Jika ada yang ingin ditanyakan silakan tinggalkan di 
 kolom komentar pada video nya.
-# nodejs-dotenv
-# nodejs-upload
